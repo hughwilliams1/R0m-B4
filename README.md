@@ -5,6 +5,8 @@
 ## Download
 
   The executable can be found here -   [Download](https://hughwilliams.itch.io/r0m-b4)
+  
+  If you occour an error on startup, wait and it will load and then work fine.
 
 ## Aim of the game
 The aim of the game is to get from the start pad to the end one. However it is not as simple as it first seems.
